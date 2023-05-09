@@ -9,4 +9,4 @@ Statistics CSVs + Histograms + Moment Analysis: Code for Retrieving statistical 
 Neuron Act Levels + Paw Displacement Velocities: Code for calculating paw displacement velocities, aligning neuron activity levels with velocities, conducting relevant analysis and attempting modeling phase
 
 # Other Code Files 
-## Codes of Extra Explorations, Informal Trials, Standup Discoveries, etc that are not in presentation & report
+### Codes of Extra Explorations, Informal Trials, Standup Discoveries, etc that are not in presentation & report
