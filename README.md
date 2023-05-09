@@ -10,3 +10,6 @@ Neuron Act Levels + Paw Displacement Velocities: Code for calculating paw displa
 
 # Other Code Files 
 ### Codes of Extra Explorations, Informal Trials, Standup Discoveries, etc that are not in presentation & report
+
+# Raw Data Storage
+Link to where all data for experiment stored: https://drive.google.com/drive/folders/1ProK8NremMH9tGeaYyjjBBvD1Yfrv3gz?usp=sharing
