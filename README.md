@@ -19,5 +19,18 @@ Other_Std and mean of all coords at all speeds of all mice: Code for learning al
 
 Other_Original Design of Heatmap: Code for original heatmap design (with reversed axis tick settings and unscaled)
 
-# Raw Data Storage
+# Data Storage
+Some example files are provided in the repository's folders (included those are used in poster, presentation, and report)
+Due to the limiation of storage space, here are the links to the original data, preprocessed data, and generated results.
+
+## Original Data
 Link to where all data for experiment stored: https://drive.google.com/drive/folders/1ProK8NremMH9tGeaYyjjBBvD1Yfrv3gz?usp=sharing
+
+# Heatmaps
+Link to where all generated heatmaps for experiment stored: https://drive.google.com/drive/folders/19MMwXU6dhwfjigQEnqZB3Kt3se89GST9?usp=sharing
+
+# Moments of Statistics
+Link to where all generated statistical data for experiment stored: https://drive.google.com/drive/folders/1M8w2NAAVnP5k3gNZpw-WOnr0zlpx9p2a?usp=sharing
+
+# Neuron Speed Day Paw Aligned
+Link to where all preprocessed data for analyzing velocity and neuron stored: https://drive.google.com/drive/folders/1nWQvq7w9DQQQOA5CwZL2CvUiyH1DU2hN?usp=sharing
