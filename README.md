@@ -22,7 +22,7 @@ Other_Original Design of Heatmap: Code for original heatmap design (with reverse
 # Data Storage
 Some example files are provided in the repository's folders (included those are used in poster, presentation, and report)
 <br>
-Due to the limiation of storage space on GitHub, I save the original data, preprocessed data, and generated results in my Drive. Following are the shared links to each of them:
+Due to the limiation of storage space on GitHub, I save the original data, preprocessed data, and generated results in my Drive. Below is the list of shared links to all of them:
 
 ## Original Data
 Link to where all data for experiment stored: https://drive.google.com/drive/folders/1ProK8NremMH9tGeaYyjjBBvD1Yfrv3gz?usp=sharing
