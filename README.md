@@ -21,7 +21,7 @@ Other_Std and mean of all coords at all speeds of all mice: Code for learning al
 Other_Original Design of Heatmap: Code for original heatmap design (with reversed axis tick settings and unscaled)
 
 # Data Storage
-Some example files are provided in the repository's folders (included those are used in poster, presentation, and report)
+Some example files are provided in the repository's folders (included those are used in the presentation and report)
 <br>
 Due to the limiation of storage space on GitHub, I save the original data, preprocessed data, and generated results in my Drive. Below is the list of shared links to all of them:
 
