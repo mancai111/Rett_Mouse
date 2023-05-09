@@ -2,7 +2,7 @@
 Using the movement data and neuron data to study Rett and non-Rett mice's moving behaviors.
 
 # Main Code File Descriptions
-### Codes of Main Contents that are in the presentation & report
+### Code of Main Contents that are in the presentation & report
 Heatmap Construction: Code for Method of heatmap visualization analysis of mice's moving behaviors
 
 Neuron Act Levels + Paw Displacement Velocities: Code for calculating paw displacement velocities, aligning neuron activity levels with velocities, conducting relevant analysis and attempting modeling phase
@@ -10,7 +10,7 @@ Neuron Act Levels + Paw Displacement Velocities: Code for calculating paw displa
 Statistics CSVs + Histograms + Moment Analysis: Code for Retrieving statistical data from heatmap, building the histograms, illustrating the moments of statistics
 
 # Other Code Files 
-### Codes of Extra Explorations, Informal Trials, Standup Discoveries, etc that are not in the presentation & report
+### Code of Extra Explorations, Informal Trials, Standup Discoveries, etc that are not in the presentation & report
 
 Other_Individuality: Code for comparing each mouse's moving trend of every speed to the 0 mm/s (reference) to learn the mouse individuality throughout the training days
 
